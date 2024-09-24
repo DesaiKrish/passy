@@ -88,7 +88,7 @@ function App() {
         </div>
       </div>
       <footer className="footer">
-        <p>Made with <span role="img" aria-label="love">❤️</span> by <a href="https://github.com/DesaiKrish" target="_blank" rel="noopener noreferrer">Krish Desai</a></p>
+        <p>Made with <span role="img" aria-label="love">❤️</span> by <a href="https://github.com/DesaiKrish/passy/tree/main" target="_blank" rel="noopener noreferrer">Krish Desai</a></p>
       </footer>
     </div>
   );
